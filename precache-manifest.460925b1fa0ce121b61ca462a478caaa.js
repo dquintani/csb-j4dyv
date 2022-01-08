@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cce2ccb158aaff2be414",
-    "url": "https://dquintani.github.io/csb-j4dyv/static/css/main.2d86b07a.chunk.css"
+    "revision": "48e4a06f775ea1c775ed",
+    "url": "https://dquintani.github.io/csb-j4dyv/static/css/main.fbece8b4.chunk.css"
   },
   {
-    "revision": "cce2ccb158aaff2be414",
-    "url": "https://dquintani.github.io/csb-j4dyv/static/js/main.cce2ccb1.chunk.js"
+    "revision": "48e4a06f775ea1c775ed",
+    "url": "https://dquintani.github.io/csb-j4dyv/static/js/main.48e4a06f.chunk.js"
   },
   {
     "revision": "ae264fd01f7646abd9c7",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://dquintani.github.io/csb-j4dyv/static/js/runtime~main.7cfa984f.js"
   },
   {
-    "revision": "470b04a6e7a74d316b4ea9d7de1eae7d",
+    "revision": "c8b192eddcd3cb3d79570e650f1bb7c4",
     "url": "https://dquintani.github.io/csb-j4dyv/index.html"
   }
 ];
